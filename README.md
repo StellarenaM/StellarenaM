@@ -67,8 +67,6 @@
 ## ⏳ 编程报告 | WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2025%20mins-blue?style=flat)
-
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 20.1 kB GitHub 存储空间 
@@ -125,7 +123,7 @@
 ![Lines of Code chart](https://raw.githubusercontent.com/StellarenaM/StellarenaM/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 13:26:39 UTC
+ Last Updated on 15/05/2026 19:14:35 UTC
 <!--END_SECTION:waka-->
 
 ---
