@@ -67,8 +67,6 @@
 ## ⏳ 编程报告 | WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2049%20mins-blue?style=flat)
-
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 20.1 kB GitHub 存储空间 
@@ -81,51 +79,12 @@
  > 
 > 🔑 0 个私人仓库 
  > 
-**我是早鸟 🐤** 
-
-```text
-🌞 早晨                     9 commits           ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-🌆 白天                     13 commits          ██████████░░░░░░░░░░░░░░░   41.94 % 
-🌃 傍晚                     9 commits           ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-🌙 晚上                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **星期日 时的我最有干劲** 
-
-```text
-星期一                      5 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-星期二                      2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-星期三                      10 commits          ████████░░░░░░░░░░░░░░░░░   32.26 % 
-星期四                      0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-星期五                      0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-星期六                      1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-星期日                      13 commits          ██████████░░░░░░░░░░░░░░░   41.94 % 
-```
-
-
-📊 **本周消耗时间** 
-
-```text
-🕑︎ 时区: Asia/Shanghai
-
-💬 编程语言: 
-本周没有记录到任何活动
-
-🔥 编辑器: 
-本周没有记录到任何活动
-
-🐱‍💻 项目: 
-本周没有记录到任何活动
-
-💻 操作系统: 
-本周没有记录到任何活动
-```
-
 **时间线**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/StellarenaM/StellarenaM/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 15:24:19 UTC
+ Last Updated on 28/05/2026 20:03:58 UTC
 <!--END_SECTION:waka-->
 
 ---
