@@ -67,7 +67,7 @@
 ## ⏳ 编程报告 | WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2057%20mins-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
@@ -108,16 +108,22 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-本周没有记录到任何活动
+Python                   2 mins              █████████░░░░░░░░░░░░░░░░   35.90 % 
+Vue                      2 mins              ████████░░░░░░░░░░░░░░░░░   32.97 % 
+JavaScript               1 min               ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+VS Code                  5 mins              █████████████████░░░░░░░░   66.40 % 
+Trae                     2 mins              ████████░░░░░░░░░░░░░░░░░   33.60 % 
 
 🐱‍💻 项目: 
-本周没有记录到任何活动
+Frontend                 5 mins              ████████████████░░░░░░░░░   64.10 % 
+backend                  2 mins              ████████░░░░░░░░░░░░░░░░░   33.60 % 
+PositionChatAI           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 💻 操作系统: 
-本周没有记录到任何活动
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 **时间线**
@@ -125,7 +131,7 @@
 ![Lines of Code chart](https://raw.githubusercontent.com/StellarenaM/StellarenaM/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2026 19:52:57 UTC
+ Last Updated on 05/06/2026 02:11:20 UTC
 <!--END_SECTION:waka-->
 
 ---
