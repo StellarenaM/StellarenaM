@@ -67,7 +67,9 @@
 ## ⏳ 编程报告 | WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%203%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20mins-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
@@ -108,22 +110,47 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-本周没有记录到任何活动
+TOML                     43 mins             ████████████░░░░░░░░░░░░░   47.11 % 
+JSON                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+PowerShell               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-本周没有记录到任何活动
+hooks                    1 hr 4 mins         █████████████████░░░░░░░░   69.04 % 
+Unknown Project          11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+ni-h                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+backend                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+ni-h-2                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 操作系统: 
-本周没有记录到任何活动
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 27 mins (29.01%)
+
+✍️ 50 lines written by AI, 258 lines written by hand (16.23% AI-written)
+
+🔤 20,771 Input Tokens, 3,727 Output Tokens
+
+💵 $0.61 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 8 AI Prompts
+
+Deepseek                 50 lines            █████████████████████████   100.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 16.23% of written lines came from AI
+📄 Detailed Prompter — average 1,044 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 89.34% of changed lines were hand-edited
 ```
 
 **时间线**
@@ -131,7 +158,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/StellarenaM/StellarenaM/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 18:44:59 UTC
+ Last Updated on 12/08/2026 19:48:54 UTC
 <!--END_SECTION:waka-->
 
 ---
