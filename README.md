@@ -110,47 +110,26 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-YAML                     1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   32.62 % 
-TOML                     43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-PowerShell               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+YAML                     1 hr 1 min          ████████████████░░░░░░░░░   64.32 % 
+PowerShell               14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Other                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Text                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 编辑器: 
-VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-envTmp                   1 hr 35 mins        █████████████░░░░░░░░░░░░   50.71 % 
-hooks                    1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   34.03 % 
-Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-ni-h                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-backend                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+envTmp                   1 hr 35 mins        █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (14.3%)
-
-✍️ 50 lines written by AI, 279 lines written by hand (15.2% AI-written)
-
-🔤 20,771 Input Tokens, 3,727 Output Tokens
-
-💵 $0.61 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 8 AI Prompts
-
-Deepseek                 50 lines            █████████████████████████   100.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.2% of written lines came from AI
-📄 Detailed Prompter — average 1,044 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 89.98% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **时间线**
@@ -158,7 +137,7 @@ Codex-Cli                0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StellarenaM/StellarenaM/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 18:17:16 UTC
+ Last Updated on 19/08/2026 18:55:09 UTC
 <!--END_SECTION:waka-->
 
 ---
