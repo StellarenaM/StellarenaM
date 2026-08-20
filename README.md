@@ -110,20 +110,16 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-YAML                     1 hr 1 min          ████████████████░░░░░░░░░   64.32 % 
-PowerShell               14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Other                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Text                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 🐱‍💻 项目: 
-envTmp                   1 hr 35 mins        █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 💻 操作系统: 
-Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 🤖 **AI Coding This Week** 
@@ -137,7 +133,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/StellarenaM/StellarenaM/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 18:21:11 UTC
+ Last Updated on 20/08/2026 19:05:41 UTC
 <!--END_SECTION:waka-->
 
 ---
