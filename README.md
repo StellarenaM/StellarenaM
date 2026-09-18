@@ -110,17 +110,19 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   1 hr 7 mins         ██████████████████░░░░░░░   71.61 % 
-Markdown                 26 mins             ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+Python                   1 hr 17 mins        ███████████████████░░░░░░   74.29 % 
+Markdown                 26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
 
 🔥 编辑器: 
-Trae                     1 hr 34 mins        █████████████████████████   100.00 % 
+Trae                     1 hr 43 mins        █████████████████████████   99.14 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🐱‍💻 项目: 
-ProndiontSystem          1 hr 34 mins        █████████████████████████   100.00 % 
+ProndiontSystem          1 hr 43 mins        █████████████████████████   99.14 % 
+imageColor               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 操作系统: 
-Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -134,7 +136,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/StellarenaM/StellarenaM/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 15:22:44 UTC
+ Last Updated on 18/09/2026 20:06:46 UTC
 <!--END_SECTION:waka-->
 
 ---
