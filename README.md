@@ -67,7 +67,7 @@
 ## ⏳ 编程报告 | WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20mins-blue?style=flat)
 
@@ -110,18 +110,18 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   22 mins             █████████████████████████   100.00 % 
+Python                   2 hrs 28 mins       █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-Trae                     22 mins             ████████████████████████░   96.08 % 
-VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+VS Code                  2 hrs 15 mins       ███████████████████████░░   91.30 % 
+Trae                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 
 🐱‍💻 项目: 
-ProndiontSystem          22 mins             ████████████████████████░   96.08 % 
-imageColor               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Demo                     2 hrs 15 mins       ███████████████████████░░   91.30 % 
+ProndiontSystem          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 
 💻 操作系统: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -135,7 +135,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/StellarenaM/StellarenaM/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 16:04:55 UTC
+ Last Updated on 25/09/2026 20:50:36 UTC
 <!--END_SECTION:waka-->
 
 ---
