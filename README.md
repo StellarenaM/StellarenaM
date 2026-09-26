@@ -110,18 +110,16 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   2 hrs 28 mins       █████████████████████████   100.00 % 
+Python                   2 hrs 15 mins       █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 15 mins       ███████████████████████░░   91.30 % 
-Trae                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+VS Code                  2 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Demo                     2 hrs 15 mins       ███████████████████████░░   91.30 % 
-ProndiontSystem          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Demo                     2 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  2 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -135,7 +133,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/StellarenaM/StellarenaM/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 15:18:46 UTC
+ Last Updated on 26/09/2026 20:19:18 UTC
 <!--END_SECTION:waka-->
 
 ---
